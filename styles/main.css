@@ -1,5 +1,69 @@
+.beboss-main__header_block{
+  background: linear-gradient(180deg, #ECEEF2 0%, rgba(236, 238, 242, 0) 100%);
+}
+.beboss-main__medal{
+  display: flex;
+
+}
+.beboss-main__medal-image{
+  width: 60px;
+  height: 60px;
+}
+.beboss-main__medal-text{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+.beboss-main__medal-text .medal-title{
+  font-weight: normal;
+}
+
+.beboss-main__video_title{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  align-items: center;
+  color: #000000;
+}
 video {
-    width: 100%;
-    height: auto;
-    max-height: 100%;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
   }
+.beboss-main__video{
+  display: flex;
+  justify-content: space-between;
+}
+.beboss-main__video-vote{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  align-items: center;
+  color: #000000;
+
+}
+.beboss-main__video-vote-title{
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  }
+.beboss-main__video-vote-text{
+  font-size: 16px;
+  line-height: 24px;
+}
+.beboss-main__video-vote-count{
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+}
+.social_vote{
+  width: 256px;
+  height: 60px;
+}
