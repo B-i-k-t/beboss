@@ -1,3 +1,5 @@
+/* header block start */
+
 .beboss-main__header_block{
   background: linear-gradient(180deg, #ECEEF2 0%, rgba(236, 238, 242, 0) 100%);
 }
@@ -67,3 +69,89 @@ video {
   width: 256px;
   height: 60px;
 }
+
+/* header bloch end */
+
+/* vip solution start */
+
+.beboss-main__vip-solution{
+  display: flex;
+}
+.beboss__vip-solution-logo{
+  border-radius: 8px;
+  width: 152px;
+  height: 114px;
+}
+.beboss-main__vip-solution-header{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  align-items: center;
+  color: #000000;
+}
+.beboss-main__vip-solution-text{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+.beboss-main__vip-solution-link{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+
+.beboss-main__vip-solution_representative-content{
+  display: flex;
+}
+.beboss-main__vip-solution_representative-logo{
+  width: 48px;
+  height: 48px;
+  border-radius: 45px;
+}
+.beboss-main__vip-solution_lampa{
+  width: 24px;
+  height: 24px;
+}
+.beboss-main__vip-solution_representative_fio{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+.beboss-main__vip-solution_representative_signature{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+.beboss-main__vip-solution_btn{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  background: #0D870D;
+  border-radius: 6px;
+  padding: 13px 36px;
+}
+
+/* vip solution end */
