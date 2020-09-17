@@ -1,3 +1,9 @@
+.main{
+  color: #000000;
+  font-family: Arial;
+  font-style: normal;
+}
+
 /* header block start */
 
 .beboss-main__header_block{
@@ -12,26 +18,20 @@
   height: 60px;
 }
 .beboss-main__medal-text{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 24px;
   align-items: center;
-  color: #000000;
 }
 .beboss-main__medal-text .medal-title{
   font-weight: normal;
 }
 
 .beboss-main__video_title{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 48px;
   line-height: 56px;
   align-items: center;
-  color: #000000;
 }
 video {
   width: 100%;
@@ -43,12 +43,8 @@ video {
   justify-content: space-between;
 }
 .beboss-main__video-vote{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   align-items: center;
-  color: #000000;
-
 }
 .beboss-main__video-vote-title{
   font-weight: bold;
@@ -83,31 +79,22 @@ video {
   height: 114px;
 }
 .beboss-main__vip-solution-header{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 32px;
   align-items: center;
-  color: #000000;
 }
 .beboss-main__vip-solution-text{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
   align-items: center;
-  color: #000000;
 }
 .beboss-main__vip-solution-link{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 24px;
   align-items: center;
-  color: #000000;
 }
 
 .beboss-main__vip-solution_representative-content{
@@ -123,26 +110,18 @@ video {
   height: 24px;
 }
 .beboss-main__vip-solution_representative_fio{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
   align-items: center;
-  color: #000000;
 }
 .beboss-main__vip-solution_representative_signature{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
   align-items: center;
-  color: #000000;
 }
 .beboss-main__vip-solution_btn{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 24px;
@@ -159,28 +138,19 @@ video {
 /* about company start */
 
 .beboss-main__about-company_title{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 32px;
-  color: #000000;
 }
 .beboss-main__about-company_text{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #000000;
 }
 .beboss-main__franchise-table{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #000000;
 }
 .beboss-main__franchise-table_title{
   color: rgba(0, 0, 0, 0.52);
@@ -189,32 +159,23 @@ video {
   text-align: center;
 }
 .beboss-main__franchize-download_content{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 24px;
-  color: #000000;
 }
 .beboss-main__franchise-cost{
   background: rgba(30, 160, 30, 0.1);
   border-radius: 16px;
 }
 .beboss-main__description-title{
-  font-family: Arial;
-  font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 32px;
-  color: #000000;
 }
 .beboss-main__franchize-description_text{
-  font-family: Arial;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #000000;
 }
 .beboss-main__about-company_fotos{
   display: flex;
@@ -226,3 +187,19 @@ video {
   border-radius: 16px;
 }
 /* about company end */
+
+/* representative form start */
+
+.beboss-main__representative_form{
+  display: flex;
+}
+
+.beboss-main__forma-capcha_desc{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+
+/* representative form enf */
