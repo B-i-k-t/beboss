@@ -192,14 +192,66 @@ video {
 
 .beboss-main__representative_form{
   display: flex;
+  background: #ECEEF2;
+  border-radius: 16px;
 }
-
+.beboss-main__form-header{
+  display: flex;
+}
+.beboss-main__forma-textarea{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+.beboss-main__forma-capcha{
+  display: flex;
+}
 .beboss-main__forma-capcha_desc{
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  display: flex;
+}
+.beboss-main__forma-capch_sec-check{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;  
+}
+.beboss-main__forma-capcha-submit{
+  background: #0D870D;
+  border-radius: 6px;  
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
   align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+.beboss-main__form-sec-footer{
+  display: flex;
+}
+.beboss-main__form-sec_text{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.4);
+}
+.beboss-main__representative-discuss_title{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+.beboss-main__discuss-list{
+  display: flex;
+}
+.beboss-main__discus-list_marker{
+  width: 24px;
+  height: 24px;
+}
+.beboss-main__discus-list_text{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 /* representative form enf */
