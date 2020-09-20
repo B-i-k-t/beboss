@@ -254,4 +254,44 @@ video {
   line-height: 24px;
 }
 
-/* representative form enf */
+/* representative form end */
+
+/* other members start */
+
+.beboss-main__other-title{
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+.beboss-main__other-videos{
+  display: flex;
+}
+.beboss-main__movie-container{
+  border-radius: 16px;
+}
+.beboss-main__other-member_header{
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+}
+.beboss-main__other-member_desc{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+.beboss-main__other-member_link{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+.beboss-main__other-members_button{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+.beboss-main__other-members_link{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* other members end */
